@@ -13,9 +13,46 @@
 .container {
     background-color: #282828;
     border-radius: 10px;
-    padding: 5px;
+    padding: 3rem;
     margin: 20px 0;
     width: fit-content;
-    text-align: justify;
+    box-shadow: 10px 10px rgb(170, 67, 221);
+}
 
+.ul-container {
+    background-color: #464545;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 20px 0;
+    width: fit-content;
+    box-shadow: 10px 10px 10px#b8b8b8;    
+}
+.container-form {
+    background-color: #282828;
+    border-radius: 10px;
+    padding: 3rem;
+    margin: 20px 0;
+    width: fit-content;
+    box-shadow: 10px 10px 5px 5px rgb(170, 67, 221);
+}
+.back-button{
+    background-color: #282828;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 20px 0;
+    width: fit-content;
+}
+.submit-button{
+    background-color: #282828;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 20px 0;
+    width: fit-content;
+}
+.containerfull{
+    background-color: #1b1b1b;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 20px 0;
+    width: fit-content;
 }
